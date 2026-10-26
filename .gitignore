@@ -1,0 +1,24 @@
+# Compiled class files
+bin/
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# IDE and Editor files
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Temporary and log files
+*.log
